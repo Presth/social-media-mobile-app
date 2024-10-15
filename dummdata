@@ -1,0 +1,42 @@
+// const posts = [
+//   {
+//     _id: { $oid: "6617c72bf20813945ef7e89a" },
+//     posted_by: "66154a60b9ae373bd193bf82",
+//     content:
+//       "This is a post from ayotunde to check a long text of element. And how beautiful this is going to be with the best system",
+//     attachment: "33e7a7e0-4b91-4720-a4c5-e562637a4acd.jpg",
+//     likes: ["66156bbc1578b32a267992f5", "66156a17ece0292b121f65f8"],
+//     __v: { $numberInt: "0" },
+//   },
+//   {
+//     _id: { $oid: "66e79d79e354b423289107f4" },
+//     posted_by: "66e79d1be354b423289107c6",
+//     content: "Precious is fine",
+//     attachment: "4f482e0d-36cd-4633-99c6-7589170fa993.png",
+//     likes: [],
+//     __v: { $numberInt: "0" },
+//   },
+// ];
+
+// const users = [
+//   {
+//     _id: { $oid: "66154a60b9ae373bd193bf82" },
+//     name: "sola",
+//     email: "ayotunde1900@gmail.com",
+//   },
+//   {
+//     _id: { $oid: "66156a17ece0292b121f65f8" },
+//     name: "Ajilore Omolabake Tinuola",
+//     email: "admin@bincom.com",
+//   },
+//   {
+//     _id: { $oid: "66156bbc1578b32a267992f5" },
+//     name: "Ajilore Omolabake Tinuola",
+//     email: "adebsayo@gmail.com",
+//   },
+//   {
+//     _id: { $oid: "661711194a0ada9d68256b93" },
+//     name: "Lawal Racheal Damilola",
+//     email: "preciousopeyemi368@gmail.com",
+//   },
+// ];
